@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__MACOSX/
+data/
+digitStructure
+mats/
+models/
+numpy_arrays/
+zips/
+
